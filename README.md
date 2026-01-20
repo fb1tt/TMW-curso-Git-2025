@@ -2,3 +2,8 @@
 
 Curso para iniciantes aprenderem a trabalhar com...
 
+Pessoas participantes:
+
+
+-Téo
+
