@@ -2,7 +2,8 @@
 
 Curso para iniciantes aprenderem a trabalhar com...
 
-
+Link do curso >>> blablabla.com
+bom curso pprt cz
 
 \## Fluxo de trabalho Git local
 
